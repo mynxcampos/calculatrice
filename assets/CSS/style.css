@@ -1,0 +1,78 @@
+body{
+  background-image: url(/assets/IMG/code-113611_1280.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+}
+
+
+h1{
+  background-color: rgba(0, 0, 0, 0.679);
+  text-align: center;
+  font-size: 5rem;
+  color: #fff;
+  text-shadow: 4px 6px 9px  #1F5A81;
+  margin-top: 0;
+  height: 100px;
+}
+
+
+.calculatrice{
+
+  height: 450px;
+  width: 300px;
+  background-color: #1D2E56;
+  border: solid 2px #21446A;
+  box-shadow: 5px 5px 10px #f0ecec;
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 15vh;
+}
+
+.ecran{
+  background-color: #dccaca;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 1);
+  width: 200px;
+  height: 70px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 3vh;
+  margin-bottom: 1vh;
+  border-radius: 5px;
+}
+
+.touches{
+  margin-top: 5vh;
+  margin-left:6vh;
+  margin-right: 4vh;
+  font-size: 2rem;
+
+}
+
+.bouton{
+  width: 40px;
+  height: 25px;
+}
+
+.infos{
+  color: #fff;
+  margin-top: 10px;
+  margin-left: 2vh;
+  font-size: 0.9rem;
+  
+}
+
+.sun{
+  margin-left: 100px;
+  height: 25px;
+}
+
+.infosun{
+  display: flex;
+
+}
+
+p{
+  margin-top: 3px;
+  margin-left: 10px;
+}
